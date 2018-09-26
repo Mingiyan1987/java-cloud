@@ -1,4 +1,4 @@
-package ru.basanov;
+package ru.basanov.enterprise.ex1;
 
 import org.apache.jackrabbit.rmi.repository.URLRemoteRepository;
 import org.junit.Test;

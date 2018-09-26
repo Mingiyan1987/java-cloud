@@ -1,4 +1,4 @@
-package ru.basanov;
+package ru.basanov.cloud;
 
 import java.sql.*;
 
