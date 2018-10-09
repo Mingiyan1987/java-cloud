@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9123bcfd-9bda-4dc2-a16f-e81b33865dd1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaDataBase.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaDataBase.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -13,6 +11,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -32,68 +33,156 @@
     <session id="913667287">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="27" />
           <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="3" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="5" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.14" value="4" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="20" />
-          <entry key="java" value="821" />
-          <entry key="xml" value="143" />
+          <entry key="dummy" value="37" />
+          <entry key="java" value="13615" />
+          <entry key="properties" value="211" />
+          <entry key="xml" value="391" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="819" />
-          <entry key="PLAIN_TEXT" value="20" />
+          <entry key="JAVA" value="13613" />
+          <entry key="PLAIN_TEXT" value="37" />
+          <entry key="Properties" value="211" />
           <entry key="SQL" value="2" />
-          <entry key="XML" value="143" />
+          <entry key="XML" value="391" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="2" />
-          <entry key="xml" value="1" />
+          <entry key="class" value="10" />
+          <entry key="gitignore" value="1" />
+          <entry key="iml" value="6" />
+          <entry key="java" value="202" />
+          <entry key="properties" value="2" />
+          <entry key="xml" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="2" />
-          <entry key="XML" value="1" />
+          <entry key="CLASS" value="10" />
+          <entry key="IDEA_MODULE" value="6" />
+          <entry key="JAVA" value="202" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Properties" value="2" />
+          <entry key="XML" value="7" />
         </counts>
       </usages-collector>
     </session>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="javaDataBase" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/ApplicationConnect.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="19" selection-start-column="19" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+            <state relative-caret-position="330">
+              <caret line="22" column="38" lean-forward="true" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ru/basanov/ExamplePermissonTest.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/cloud/api/remote/FileRemoteService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="40" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
+            <state relative-caret-position="120">
+              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/cloud/handler/KeyboardCommandHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1995">
+              <caret line="148" column="5" lean-forward="true" selection-start-line="148" selection-start-column="5" selection-end-line="148" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javaDataBase.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="48" lean-forward="true" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/cloud/endpoint/EndpointCloud.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/cloud/endpoint/EndpointApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/cloud/api/basic/FileService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/cloud/api/basic/FolderService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/cloud/service/local/FileLocalServiceBean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="54" column="28" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -106,9 +195,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
+        <option value="AnnotationType" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>load</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -117,13 +213,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ru/basanov/Main.java" />
-        <option value="$PROJECT_DIR$/src/ru/basanov/ApplicationConnect.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ru/basanov/ApplicationConnect.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/basanov/enterprise/ExamplePermissonTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/basanov/enterprise/AbstractTestJCR.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/basanov/enterprise/ExampleFolderListTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/basanov/enterprise/ExampleFolderTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/basanov/enterprise/ExampleFileTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/basanov/enterprise/ex2/ExampleFileTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/basanov/cloud/service/ApplicationService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/basanov/cloud/service/SyncService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/basanov/cloud/service/TimerService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/basanov/cloud/service/SycTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/basanov/cloud/api/FileService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/basanov/cloud/api/system/Application.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/basanov/cloud/api/system/SettingService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/basanov/cloud/api/system/SyncService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/basanov/cloud/api/system/BootstrapService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/basanov/cloud/api/annotation/Loggable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/basanov/cloud/service/system/EndpointServiceBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/basanov/cloud/service/system/SyncTaskBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/basanov/cloud/api/system/ApplicationService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/basanov/cloud/Application.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/basanov/cloud/api/system/SycTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/basanov/cloud/api/system/SyncTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/basanov/cloud/api/system/TimerService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/basanov/cloud/service/system/TimerServiceBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/basanov/cloud/service/system/ApplicationServiceBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/basanov/cloud/api/endpoint/EndpointApplicationAPI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/basanov/cloud/endpoint/EndpointApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/basanov/cloud/interceptor/LogInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/basanov/cloud/event/KeyboardInitEvent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/basanov/cloud/event/keyboard/KeyboardInitEvent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/basanov/cloud/service/system/BootstrapServiceBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/basanov/cloud/event/keyboard/KeyboardCommandEvent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/basanov/cloud/handler/KeyboardInitHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/basanov/cloud/api/system/EndpointService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/basanov/cloud/api/remote/FileRemoteService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/basanov/cloud/handler/KeyboardCommandHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/basanov/cloud/service/system/SyncServiceBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/basanov/cloud/service/system/SettingServiceBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/basanov/cloud/api/local/FileLocalService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/basanov/cloud/api/basic/FileService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/basanov/cloud/api/local/FolderLocalService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/basanov/cloud/service/local/FolderLocalServiceBean.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/basanov/cloud/api/basic/FolderService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/basanov/cloud/service/local/FileLocalServiceBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/basanov/cloud/api/remote/FolderRemoteService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/basanov/cloud/service/remote/FolderRemoteServiceBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/basanov/cloud/service/remote/FileRemoteServiceBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/basanov/cloud/api/basic/Nullable.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/ru/basanov/ex1/ExamplePermissionTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ru/basanov/ExamplePermissionTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ru/basanov/ExamplePermissonTest.java" />
       </list>
     </option>
   </component>
@@ -156,11 +296,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="11" />
-    <option name="y" value="23" />
-    <option name="width" value="1400" />
-    <option name="height" value="767" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -170,6 +308,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -201,34 +340,55 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="basanov" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javaDataBase" type="b2602c69:ProjectViewProjectNode" />
               <item name="javaDataBase" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaDataBase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaDataBase" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javaDataBase" type="b2602c69:ProjectViewProjectNode" />
               <item name="javaDataBase" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="basanov" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaDataBase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaDataBase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="remote" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaDataBase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaDataBase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="handler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaDataBase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaDataBase" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -236,12 +396,17 @@
     <property name="DatabaseDriversLRU" value="mysql&#10;sqlite" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537905811027" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539075915083" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="play.paths.configuration" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ru.basanov.cloud.api.basic" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -255,9 +420,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ExamplePermissonTest.testAdmin">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ru.basanov.ApplicationConnect" />
+      <option name="MAIN_CLASS_NAME" value="ru.basanov.cloud.Application" />
       <module name="javaDataBase" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
@@ -270,12 +435,12 @@
       <module name="javaDataBase" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.basanov.*" />
+          <option name="PATTERN" value="ru.basanov.cloud.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ru.basanov" />
-      <option name="MAIN_CLASS_NAME" value="ru.basanov.ExamplePermissonTest" />
+      <option name="PACKAGE_NAME" value="ru.basanov.enterprise.ex1" />
+      <option name="MAIN_CLASS_NAME" value="ru.basanov.enterprise.ex1.ExamplePermissonTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -284,12 +449,12 @@
       <module name="javaDataBase" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.basanov.*" />
+          <option name="PATTERN" value="ru.basanov.cloud.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ru.basanov" />
-      <option name="MAIN_CLASS_NAME" value="ru.basanov.ExamplePermissonTest" />
+      <option name="PACKAGE_NAME" value="ru.basanov.enterprise.ex1" />
+      <option name="MAIN_CLASS_NAME" value="ru.basanov.enterprise.ex1.ExamplePermissonTest" />
       <option name="METHOD_NAME" value="testAdmin" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -300,12 +465,12 @@
       <module name="javaDataBase" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.basanov.*" />
+          <option name="PATTERN" value="ru.basanov.cloud.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ru.basanov" />
-      <option name="MAIN_CLASS_NAME" value="ru.basanov.ExamplePermissonTest" />
+      <option name="PACKAGE_NAME" value="ru.basanov.enterprise.ex1" />
+      <option name="MAIN_CLASS_NAME" value="ru.basanov.enterprise.ex1.ExamplePermissonTest" />
       <option name="METHOD_NAME" value="testGuest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -320,6 +485,7 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.ExamplePermissonTest.testAdmin" />
         <item itemvalue="JUnit.ExamplePermissonTest" />
         <item itemvalue="JUnit.ExamplePermissonTest.testGuest" />
@@ -341,7 +507,30 @@
       <workItem from="1537774097347" duration="21000" />
       <workItem from="1537774287500" duration="2246000" />
       <workItem from="1537894505273" duration="565000" />
-      <workItem from="1537899588462" duration="2517000" />
+      <workItem from="1537899588462" duration="3020000" />
+      <workItem from="1537948181645" duration="6601000" />
+      <workItem from="1538027461076" duration="348000" />
+      <workItem from="1538153726421" duration="7113000" />
+      <workItem from="1538204863055" duration="11447000" />
+      <workItem from="1538245669992" duration="2345000" />
+      <workItem from="1538288056490" duration="5200000" />
+      <workItem from="1538319477430" duration="933000" />
+      <workItem from="1538335353899" duration="1258000" />
+      <workItem from="1538375410142" duration="1872000" />
+      <workItem from="1538386124435" duration="1308000" />
+      <workItem from="1538462073436" duration="553000" />
+      <workItem from="1538560424772" duration="3832000" />
+      <workItem from="1538585523414" duration="4413000" />
+      <workItem from="1538656142468" duration="1048000" />
+      <workItem from="1538763706084" duration="1968000" />
+      <workItem from="1538823765661" duration="3770000" />
+      <workItem from="1538860961213" duration="2835000" />
+      <workItem from="1538899514038" duration="218000" />
+      <workItem from="1538934053058" duration="3652000" />
+      <workItem from="1538941552546" duration="349000" />
+      <workItem from="1538982869470" duration="8201000" />
+      <workItem from="1539073866273" duration="382000" />
+      <workItem from="1539075504068" duration="676000" />
     </task>
     <servers />
   </component>
@@ -352,33 +541,40 @@
     <history-entry file="ExamplePermissonTest - 2018.09.25 at 22h 54m 13s.xml">
       <configuration name="ExamplePermissonTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ExamplePermissonTest_testAdmin - 2018.09.25 at 23h 03m 35s.xml">
+      <configuration name="ExamplePermissonTest.testAdmin" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExamplePermissonTest_testAdmin - 2018.09.25 at 23h 07m 04s.xml">
+      <configuration name="ExamplePermissonTest.testAdmin" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9981000" />
+    <option name="totallyTimeSpent" value="81749000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="11" y="23" width="1400" height="767" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26804122" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49858758" visible="true" weight="0.18454936" />
+      <window_info id="Structure" order="1" sideWeight="0.50141245" side_tool="true" weight="0.26342282" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3288889" />
+      <window_info id="Favorites" order="6" sideWeight="0.50141245" side_tool="true" weight="0.26342282" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3288889" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32909605" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40120482" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32909605" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32768363" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -387,7 +583,8 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Database" order="7" weight="0.3298969" />
-      <window_info anchor="right" id="Maven Projects" order="8" weight="0.3298969" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.22782874" />
+      <window_info anchor="right" id="CDI" order="9" weight="0.32885906" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -397,30 +594,368 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/ApplicationConnect.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/cloud/api/endpoint/EndpointSettingAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        <state relative-caret-position="30">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/basanov/ExamplePermissionTest.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/jcr/jcr/2.0/jcr-2.0.jar!/javax/jcr/Session.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        <state relative-caret-position="375">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/basanov/ExamplePermissonTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/cloud/api/endpoint/EndpointApplicationAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="40" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/weld/weld-core-impl/3.0.5.Final/weld-core-impl-3.0.5.Final.jar!/org/jboss/weld/bootstrap/WeldUnusedMetadataExtension.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="43" column="70" selection-start-line="43" selection-start-column="70" selection-end-line="43" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/cloud/event/keyboard/KeyboardInitEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/cloud/api/endpoint/EndpointCloudAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/cloud/api/endpoint/EndpointStorageAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/cloud/api/endpoint/EndpointSyncAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/cloud/endpoint/EndpointSetting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/cloud/event/keyboard/KeyboardCommandEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/cloud/endpoint/EndpointSync.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/cloud/api/system/BootstrapService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/cloud/api/system/ApplicationService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/cloud/api/system/SyncTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/cloud/api/system/TimerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/cloud/api/system/EndpointService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/cloud/handler/KeyboardInitHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/cloud/service/system/TimerServiceBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/cloud/service/system/EndpointServiceBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/cloud/service/system/SyncServiceBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/cloud/service/system/SettingServiceBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="71" column="8" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/cloud/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/weld/weld-core-impl/3.0.5.Final/weld-core-impl-3.0.5.Final.jar!/org/jboss/weld/bean/builtin/InstanceImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/cloud/api/system/SettingService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/cloud/api/local/FileLocalService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/cloud/service/system/BootstrapServiceBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/cloud/service/local/FolderLocalServiceBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="40" column="16" lean-forward="true" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/cloud/api/local/FolderLocalService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/nio/file/Files.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="3150" column="25" selection-start-line="3150" selection-start-column="25" selection-end-line="3150" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/cloud/service/system/ApplicationServiceBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="116" column="18" lean-forward="true" selection-start-line="116" selection-start-column="18" selection-end-line="116" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/jcr/jcr/2.0/jcr-2.0.jar!/javax/jcr/Node.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-837">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/cloud/api/remote/FolderRemoteService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/ext/nashorn.jar!/jdk/nashorn/internal/runtime/regexp/joni/constants/NodeType.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/jcr/jcr/2.0/jcr-2.0.jar!/javax/jcr/nodetype/NodeType.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/cloud/service/remote/FileRemoteServiceBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1065">
+          <caret line="89" column="42" selection-start-line="89" selection-start-column="42" selection-end-line="89" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/jcr/jcr/2.0/jcr-2.0-sources.jar!/javax/jcr/nodetype/NodeType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/cloud/api/annotation/Loggable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.2/lombok-1.18.2.jar!/lombok/SneakyThrows.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/cloud/service/remote/FolderRemoteServiceBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/cloud/service/local/FileLocalServiceBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="54" column="28" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/cloud/endpoint/EndpointApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/cloud/api/basic/Nullable.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaDataBase.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="48" lean-forward="true" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/cloud/api/basic/FolderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/cloud/api/remote/FileRemoteService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/cloud/handler/KeyboardCommandHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1995">
+          <caret line="148" column="5" lean-forward="true" selection-start-line="148" selection-start-column="5" selection-end-line="148" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/cloud/api/basic/FileService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/basanov/cloud/endpoint/EndpointCloud.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="38" lean-forward="true" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -464,7 +999,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>10</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -482,6 +1017,18 @@
               <list>
                 <option value="0.2" />
                 <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>

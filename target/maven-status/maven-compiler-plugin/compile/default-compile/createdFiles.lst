@@ -1,0 +1,11 @@
+ru/basanov/cloud/api/local/FileLocalService.class
+ru/basanov/cloud/api/local/FolderLocalService.class
+ru/basanov/cloud/api/system/Application.class
+ru/basanov/cloud/service/SyncService.class
+ru/basanov/cloud/api/basic/FolderService.class
+ru/basanov/cloud/api/remote/FileRemoteService.class
+ru/basanov/cloud/service/SycTask.class
+ru/basanov/cloud/service/TimerService.class
+ru/basanov/cloud/service/ApplicationService.class
+ru/basanov/cloud/ApplicationConnect.class
+ru/basanov/cloud/api/basic/FileService.class

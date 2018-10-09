@@ -1,1 +1,11 @@
-/Users/mingiyan/IdeaProjects/javaDataBase/src/main/java/ru/basanov/ApplicationConnect.java
+/Users/mingiyan/IdeaProjects/javaDataBase/src/main/java/ru/basanov/cloud/api/system/Application.java
+/Users/mingiyan/IdeaProjects/javaDataBase/src/main/java/ru/basanov/cloud/service/TimerService.java
+/Users/mingiyan/IdeaProjects/javaDataBase/src/main/java/ru/basanov/cloud/api/basic/FolderService.java
+/Users/mingiyan/IdeaProjects/javaDataBase/src/main/java/ru/basanov/cloud/api/local/FileLocalService.java
+/Users/mingiyan/IdeaProjects/javaDataBase/src/main/java/ru/basanov/cloud/service/SycTask.java
+/Users/mingiyan/IdeaProjects/javaDataBase/src/main/java/ru/basanov/cloud/ApplicationConnect.java
+/Users/mingiyan/IdeaProjects/javaDataBase/src/main/java/ru/basanov/cloud/api/basic/FileService.java
+/Users/mingiyan/IdeaProjects/javaDataBase/src/main/java/ru/basanov/cloud/api/local/FolderLocalService.java
+/Users/mingiyan/IdeaProjects/javaDataBase/src/main/java/ru/basanov/cloud/service/SyncService.java
+/Users/mingiyan/IdeaProjects/javaDataBase/src/main/java/ru/basanov/cloud/api/remote/FileRemoteService.java
+/Users/mingiyan/IdeaProjects/javaDataBase/src/main/java/ru/basanov/cloud/service/ApplicationService.java
