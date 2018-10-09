@@ -4,7 +4,7 @@ import ru.basanov.cloud.api.basic.FileService;
 
 public interface FileRemoteService extends FileService {
 
-    boolean clearRoot();
+    void clearRoot();
 
-    boolean prinListFileNameRoot();
+    void printListFileNameRoot();
 }
