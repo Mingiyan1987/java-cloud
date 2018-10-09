@@ -157,7 +157,7 @@ public class KeyboardCommandHandler {
         stream.println(KeyboardCommandHandler.CMD_LOGIN + "  - Open cloud session");
         stream.println(KeyboardCommandHandler.CMD_LOGOUT + "  - Close cloud session");
         stream.println(KeyboardCommandHandler.CMD_START + "  - Start cloud synchronizqtion");
-        stream.println(KeyboardCommandHandler.CMD_STOP + "  - Stop cloud syncronization");
+        stream.println(KeyboardCommandHandler.CMD_STOP + "  - Stop cloud synchronization");
         stream.println(KeyboardCommandHandler.CMD_LOCAL_FILES + "  - Display local root file");
         stream.println(KeyboardCommandHandler.CMD_LOCAL_FOLDERS + "  - Display local root folder");
         stream.println(KeyboardCommandHandler.CMD_REMOTE_FILES + "  - Display remote root files");

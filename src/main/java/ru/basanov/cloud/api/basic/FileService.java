@@ -8,11 +8,11 @@ import java.util.List;
 public interface FileService {
 
     @NotNull
-    List<String> getListFileName();
+    List<String> getListFileNameRoot();
 
     void printListFileNameRoot();
 
-    void cleatRoot();
+    void clearRoot();
 
     @Nullable
     byte[] readData(String name);
@@ -23,6 +23,6 @@ public interface FileService {
 
     void remove(String name);
 
-    void createTextfile(String name, String text);
+    void createTextFile(String name, String text);
 
 }
