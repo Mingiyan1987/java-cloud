@@ -91,7 +91,7 @@ public class FileRemoteServiceBean implements FileRemoteService {
             final NodeIterator nt = root.getNodes();
             while (nt.hasNext()) {
                 final Node node = nt.nextNode();
-                final javax.jcr.nodetype.NodeType
+                final NodeType
                 final boolean isFile = ((javax.jcr.nodetype.NodeType) nodeType).isNodeType("nt:file");
                 if (isFile) result.add(node.getName());
             }
