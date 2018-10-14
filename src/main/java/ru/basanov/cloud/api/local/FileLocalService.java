@@ -15,5 +15,5 @@ public interface FileLocalService extends FileService {
 
     @Nullable
     @Override
-    Byte[] readData(String name);
+    byte[] readData(String name);
 }

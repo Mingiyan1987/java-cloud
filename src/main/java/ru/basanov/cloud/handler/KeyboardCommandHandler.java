@@ -124,10 +124,10 @@ public class KeyboardCommandHandler {
                 folderLocalService.printListFolderNameRoot();
                 break;
             case CMD_REMOTE_FILES:
-                fileRemoteService.prinListFileNameRoot();
+               fileRemoteService.printListFileNameRoot();
                 break;
             case CMD_LOCAL_FILES:
-                fileRemoteService.prinListFileNameRoot();
+               fileRemoteService.printListFileNameRoot();
                 break;
             case CMD_REMOTE_FILES_CLEAR:
                 fileRemoteService.clearRoot();

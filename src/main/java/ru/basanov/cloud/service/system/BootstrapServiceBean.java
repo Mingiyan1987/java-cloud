@@ -28,6 +28,7 @@ public class BootstrapServiceBean implements BootstrapService {
    @Inject
    private Event<KeyboardInitEvent> keyboardInputInitEvent;
 
+
     @Loggable
     public void init() {
         settingService.init();
