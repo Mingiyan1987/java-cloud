@@ -22,7 +22,9 @@
         <project.build.sourceEndcofing>UTF-8</project.build.sourceEndcofing>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
+        <deltaspike.version>1.8.2</deltaspike.version>
     </properties>
+
     <dependencies>
         <!-- https://mvnrepository.com/artifact/org.jetbrains/annotations -->
         <dependency>
@@ -51,17 +53,7 @@
             <artifactId>deltaspike-core-api</artifactId>
             <version>RELEASE</version>
         </dependency>
-        <dependency>
-            <groupId>org.apache.deltaspike.modules</groupId>
-            <artifactId>deltaspike-test-control-module-api</artifactId>
-            <version>1.9.0</version>
-        </dependency>
-        <dependency>
-            <groupId>org.apache.deltaspike.modules</groupId>
-            <artifactId>deltaspike-test-control-module-impl</artifactId>
-            <version>RELEASE</version>
-            <scope>test</scope>
-        </dependency>
+
 
         <dependency>
             <groupId>javax.jcr</groupId>
@@ -118,8 +110,31 @@
             <version>4.12</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>io.netty</groupId>
+            <artifactId>netty-all</artifactId>
+            <version>4.1.10.Final</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.bsc.framework/beanmanager -->
+        <dependency>
+            <groupId>org.bsc.framework</groupId>
+            <artifactId>beanmanager</artifactId>
+            <version>1.4</version>
+            <type>pom</type>
+        </dependency>
+        <dependency>
+            <groupId>com.sun.xml.ws</groupId>
+            <artifactId>jaxws-rt</artifactId>
+            <version>2.2</version>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.sun.istack</groupId>
+            <artifactId>istack-commons-runtime</artifactId>
+            <version>2.2</version>
+            <scope>provided</scope>
+        </dependency>
     </dependencies>
-
     <build>
         <finalName>javaDataBase</finalName>
         <plugins>

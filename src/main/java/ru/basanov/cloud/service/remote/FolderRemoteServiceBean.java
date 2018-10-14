@@ -31,7 +31,7 @@ public class FolderRemoteServiceBean implements FolderRemoteService {
             while (nt.hasNext()) {
                 final Node node = nt.nextNode();
                 final NodeType nodeType = node.getPrimaryNodeType();
-                if (isFolder) result.add(node.getName());
+                //if (isFolder) result.add(node.getName());
             }
             return result;
         } catch (RepositoryException e) {
@@ -47,6 +47,11 @@ public class FolderRemoteServiceBean implements FolderRemoteService {
         if (root == null) return;;
         root.addNode(folderName, "nt:folder");
         applicationService.save();
+    }
+
+    @Override
+    public void init() {
+
     }
 
     @Override

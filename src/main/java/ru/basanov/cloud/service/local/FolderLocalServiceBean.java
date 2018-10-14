@@ -1,6 +1,5 @@
 package ru.basanov.cloud.service.local;
 
-import com.sun.xml.internal.ws.api.ha.StickyFeature;
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 import ru.basanov.cloud.api.annotation.Loggable;

@@ -1,6 +1,5 @@
 package ru.basanov.cloud.service.remote;
 
-import jdk.nashorn.internal.runtime.regexp.joni.constants.NodeType;
 import lombok.SneakyThrows;
 import org.apache.commons.io.IOUtils;
 import org.jetbrains.annotations.NotNull;
@@ -14,6 +13,7 @@ import javax.jcr.Binary;
 import javax.jcr.Node;
 import javax.jcr.NodeIterator;
 import javax.jcr.Session;
+import javax.jcr.nodetype.NodeType;
 import java.io.ByteArrayInputStream;
 import java.util.ArrayList;
 import java.util.Calendar;
@@ -84,15 +84,14 @@ public class FileRemoteServiceBean implements FileRemoteService {
     @Override
     public List<String> getListFileNameRoot() {
         try {
-
             final Node root = applicationService.getRootNode();
             if (root == null) return Collections.emptyList();
             final List<String> result = new ArrayList<>();
             final NodeIterator nt = root.getNodes();
             while (nt.hasNext()) {
                 final Node node = nt.nextNode();
-                final NodeType
-                final boolean isFile = ((javax.jcr.nodetype.NodeType) nodeType).isNodeType("nt:file");
+                final NodeType nodeType = node.getPrimaryNodeType();
+                final boolean isFile = nodeType.isNodeType("nt:file");
                 if (isFile) result.add(node.getName());
             }
             return result;
@@ -115,7 +114,8 @@ public class FileRemoteServiceBean implements FileRemoteService {
         while (nt.hasNext()) {
             final Node node = nt.nextNode();
             final NodeType nodeType = node.getPrimaryNodeType();
-            final boolean isFolder = ((javax.jcr.nodetype.NodeType) nodeType).isNodeType()
+            final boolean isFolder = nodeType.isNodeType("nt:file");
+            if (isFolder) node.remove();
         }
     }
 }
