@@ -30,4 +30,5 @@ public class SyncServiceBean implements SyncService {
     public boolean stop() {
         return false;
     }
+
 }

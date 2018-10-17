@@ -38,7 +38,7 @@ public class DiscardServer {
             bossGroup.shutdownGracefully();
         }
     }
-
+/*
     public static void main(String[] args) throws Exception {
         int port;
         if (args.length > 0) {
@@ -48,4 +48,5 @@ public class DiscardServer {
         }
         new DiscardServer(port).run();
     }
+*/
 }
