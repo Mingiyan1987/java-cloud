@@ -6,6 +6,9 @@
     <option name="showInjectionPoints" value="false" />
     <option name="showGraph" value="true" />
   </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
