@@ -119,5 +119,4 @@ public class ApplicationServiceBean implements ApplicationService {
         session.save();
         return true;
     }
-
 }
