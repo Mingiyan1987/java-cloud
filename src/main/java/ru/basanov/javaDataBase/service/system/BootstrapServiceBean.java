@@ -33,7 +33,6 @@ public class BootstrapServiceBean implements BootstrapService {
    @Inject
    private Event<KeyboardInitEvent> keyboardInputInitEvent;
 
-
     @Loggable
     public void init() {
         bootstrapService.init();
@@ -41,7 +40,6 @@ public class BootstrapServiceBean implements BootstrapService {
         endpointService.init();
         folderLocalService.init();
         applicationService.init();
-
         keyboardInputInitEvent.fire(new KeyboardInitEvent());
     }
 

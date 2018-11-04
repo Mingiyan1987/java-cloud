@@ -2,13 +2,17 @@
 <beans
         xmlns="http://xmlns.jcp.org/xml/ns/javaee"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:weld="http://jboss.org/schema/weld/beans"
        xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee
                           http://xmlns.jcp.org/xml/ns/javaee/beans_1_1.xsd"
+        version="1.1"
        bean-discovery-mode="all">
     <interceptors>
         <class>ru.basanov.javaDataBase.interceptor.LogInterceptor</class>
     </interceptors>
-
+    <weld:scan>
+        <weld:include name="my.package.*"/>
+    </weld:scan>
     <validation-config xmlns="http://jboss.org/xml/ns/javax/validation/configuration"
                        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                        xsi:schemaLocation="http://jboss.org/xml/ns/javax/validation/configuration" version="1.1">
